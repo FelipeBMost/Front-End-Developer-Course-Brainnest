@@ -1,2 +1,2 @@
 # Front End Developer Course Brainnest
- 1 Month training course on front end development from Brainnest focusing on HTML, CSS and Javascript.
+ 1 Month training course in front end development from Brainnest focusing on HTML, CSS and Javascript.
